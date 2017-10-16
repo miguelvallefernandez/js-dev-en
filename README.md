@@ -1,3 +1,3 @@
 # js-dev-en
-Version 1.0.0
+Version 1.0.1
 Entorno de prueba para JS
